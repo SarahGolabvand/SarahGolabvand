@@ -62,38 +62,23 @@ Engineering deterministic, fault-tolerant distributed backend systems and scalab
 
 <!-- EDIT: AI INTERESTS -->
 
-<table>
-<tr>
+<div align="center">
 
-<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/RESTful_APIs-0D1728?style=for-the-badge&logoColor=38BDF8" alt="RESTful APIs" />
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL_&_SQL-0D1728?style=for-the-badge&logoColor=38BDF8" alt="PostgreSQL & SQL" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker_Basics-0D1728?style=for-the-badge&logoColor=38BDF8" alt="Docker Basics" />
 
-<strong>Systems</strong>
+<br/>
 
-Distributed Systems  
-Fault-Tolerant Design
+<img src="https://img.shields.io/badge/Database_Modeling-0D1728?style=for-the-badge&logoColor=38BDF8" alt="Database Modeling" />
+&nbsp;
+<img src="https://img.shields.io/badge/Unit_Testing-0D1728?style=for-the-badge&logoColor=38BDF8" alt="Unit Testing" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git_&_CI_CD-0D1728?style=for-the-badge&logoColor=38BDF8" alt="Git & CI/CD" />
 
-</td>
-
-<td width="33%" valign="top">
-
-<strong>Architecture</strong>
-
-Scalable APIs  
-Deterministic Data Flows
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong>Infrastructure</strong>
-
-Cloud Native Architecture  
-Performance Optimization
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <!-- END EDIT -->
 
@@ -103,11 +88,11 @@ Performance Optimization
 
 <!-- EDIT: BACKGROUND -->
 
-**Backend Developer** focused on engineering robust and scalable infrastructure.
+**Backend Developer** focused on building clean, reliable APIs and well-structured database backends.
 
 Interested in:
 
-`Distributed Systems` · `System Design` · `API Lifecycle Management` · `Database Architecture` · `CI/CD Pipelines`
+`API Design` · `Relational Databases` · `Containerization (Docker)` · `Clean Architecture` · `Backend Testing`
 
 <!-- END EDIT -->
 
@@ -128,8 +113,6 @@ Interested in:
 <a href="https://www.linkedin.com/in/sarah-golabvand/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-
 
 <a href="https://github.com/sarahgolabvand">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
