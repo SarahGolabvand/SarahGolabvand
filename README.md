@@ -10,8 +10,7 @@
 
 ### Backend Developer · Systems Builder
 
-Engineering deterministic, fault-tolerant distributed backend systems and scalable APIs.
-
+Writing clean code.Testing edge cases.Building solid backends.
 </div>
 
 <!-- END EDIT -->
