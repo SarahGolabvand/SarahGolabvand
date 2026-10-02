@@ -21,16 +21,6 @@ Writing clean code.Testing edge cases.Building solid backends.
   <img src="./assets/section-divider.svg" width="50%" alt="" />
 </div>
 
-## Featured Project
-
-<div align="center">
-  <img src="./assets/metric.svg" width="100%" alt="" />
-</div>
-
-<div align="center">
-  <img src="./assets/section-divider.svg" width="50%" alt="" />
-</div>
-
 ## Tech Stack
 
 <!-- EDIT: STACK -->
